@@ -85,5 +85,5 @@ This project uses deep learning models to classify **Indian Sign Language (ISL)*
 
 For queries or collaboration:
 
-- GitHub: ritup04 (https://github.com/ritup04)
-- Email: ritupal1626@gmail.com
+GitHub: [ritup04](https://github.com/ritup04)  
+Email: [ritupal1626@gmail.com](mailto:ritupal1626@gmail.com)
